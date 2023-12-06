@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning learning **Python** for my **Thesis**
 
-- 👯 I’m looking to collaborate on **on open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
