@@ -1,8 +1,14 @@
-### Hi there, I'm Ihsan
-- 🔭 I’m currently working on my Master Thesis
-- 🌱 I’m currently learning Python for my thesis
-- 👯 I’m looking to collaborate on on open source projects
- 
+<h1 align="center">Hi 👋, I'm Ihsan</h1>
+<h3 align="center">A passionate frontend web developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
+
+- 🔭 I’m currently working on my **Master Thesis**
+
+- 🌱 I’m currently learning learning **Python** for my **Thesis**
+
+- 👯 I’m looking to collaborate on **on open source projects**
+
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
 
@@ -16,18 +22,8 @@ Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositor
 [![github](https://github.com/amihsan/amihsan/assets/57538441/87ad4645-156d-4218-bd07-94961578de29)](//amihsan.github.io)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amihsan&show_icons=true&locale=en&layout=compact" alt="amihsan" /></p>
 
-<!--
-**amihsan/amihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amihsan&show_icons=true&locale=en" alt="amihsan" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Master Thesis
-- 🌱 I’m currently learning Python for my thesis
-- 👯 I’m looking to collaborate on on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amihsan&" alt="amihsan" /></p>
