@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on on open source projects
  
 ### Repositories
-Please visit [amihsan.github.io](//amihsan.github.io) for an organized overview of my repositories.
+Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
 
 
 
