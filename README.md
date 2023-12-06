@@ -6,7 +6,8 @@
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
 
-
+### Get in touch
+![linkedin (3)](https://github.com/amihsan/amihsan/assets/57538441/c92dec2c-5cfb-4104-a765-4386a57486a8)
 
 <!--
 **amihsan/amihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
