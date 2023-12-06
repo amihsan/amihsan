@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my Master Thesis
 - 🌱 I’m currently learning Python for my thesis
 - 👯 I’m looking to collaborate on on open source projects
-- 
+ 
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) for an organized overview of my repositories.
 
