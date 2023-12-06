@@ -7,6 +7,9 @@
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
 
 ### Get in touch
+[![LinkedIn](https://github.com/amihsan/amihsan/assets/57538441/d660884d-98fb-4998-8b4a-f0fcfbc0d393)](https://www.linkedin.com/in/amimulihsan/)<!-- Your LinkedIn Profile -->
+
+
 
 
 
