@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
 
-- 🔭 I’m currently working on my **Master Thesis**
+- 🔭 I have recenty completed my **Master Thesis**
 
 - 🌱 I’m currently learning learning **Python** for my **Thesis**
 
