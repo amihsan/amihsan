@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
 
-- 🔭 I have recenty completed my **Master Thesis**
+- 🔭 I’m a Master's graduate in Web Engineering with a passion for Full-Stack Development.
+- 🌱 I’m currently exploring Docker, Kubernetes, Ansible, and Terraform to enhance my skills in DevOps.
+- 👯 I’m looking to collaborate on open-source projects or innovative tech startups.
 
-- 🌱 I’m currently learning learning **Python** for my **Thesis**
-
-- 👯 I’m looking to collaborate on **open source projects**
 
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
