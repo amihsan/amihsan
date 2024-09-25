@@ -24,8 +24,14 @@ Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositor
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+<img src="https://icon2.cleanpng.com/20180424/ezq/avtt06zgp.webp" alt="Ansible" style="width: 48px; height: 48px;">
+<img src="https://icon2.cleanpng.com/20180529/ol/avpkg94ta.webp" alt="Terraform" style="width: 100px; height: 48px;">
+
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="250" height="48">
+
+
+
 
 
 
