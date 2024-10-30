@@ -20,7 +20,7 @@ Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositor
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![React](https://img.icons8.com/officel/48/000000/react.png)
-![Flask](https://img.icons8.com/color/48/000000/flask.png)
+<img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black" alt="Flask" width="80" height="48">
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
