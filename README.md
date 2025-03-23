@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
 
-- 🔭 I’m a Master's graduate in Web Engineering with a strong focus on Cloud and DevOps.
-- 🌱 Currently diving deep into AWS, Docker, Kubernetes, Terraform, and Ansible to build scalable and automated infrastructure.
-- 🚀 Passionate about CI/CD, cloud security, AWS best practices, and site reliability, aiming to optimize deployments and infrastructure management.
-- 👯 Looking to collaborate on open-source DevOps projects or contribute to innovative cloud-native solutions.
+- 🔭 I’m a Master's graduate in Web Engineering with a strong focus on Cloud and DevOps.  
+- 🌱 Currently diving deep into AWS, Docker, Kubernetes, Terraform, and Ansible to build scalable and automated infrastructure.  
+- 🎓 **[AWS Certified Developer – Associate](https://www.credly.com/badges/38505561-2479-41aa-bcbc-2c0caa5e4162)**, with hands-on experience in cloud-native application development and deployment.  
+- 🚀 Passionate about CI/CD, cloud security, AWS best practices, and site reliability, aiming to optimize deployments and infrastructure management.  
+- 👯 Looking to collaborate on open-source DevOps projects or contribute to innovative cloud-native solutions.  
 
 
 ### Repositories
