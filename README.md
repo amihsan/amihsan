@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
 
-- 🔭 I’m a Master's graduate in Web Engineering with a passion for Full-Stack Development.
-- 🌱 I’m currently exploring Docker, Kubernetes, Ansible, and Terraform to enhance my skills in DevOps.
-- 👯 I’m looking to collaborate on open-source projects or innovative tech startups.
+- 🔭 I’m a Master's graduate in Web Engineering with a strong focus on Cloud and DevOps.
+- 🌱 Currently diving deep into AWS, Docker, Kubernetes, Terraform, and Ansible to build scalable and automated infrastructure.
+- 🚀 Passionate about CI/CD, cloud security, AWS best practices, and site reliability, aiming to optimize deployments and infrastructure management.
+- 👯 Looking to collaborate on open-source DevOps projects or contribute to innovative cloud-native solutions.
 
 
 ### Repositories
