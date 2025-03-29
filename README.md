@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ihsan</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer, cloud, and DevOps enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amihsan&label=Profile%20views&color=0e75b6&style=flat" alt="amihsan" /> </p>
 
-- 🔭 I’m a Master's graduate in Web Engineering with a strong focus on Cloud and DevOps.  
+## 🚀 About Me
+
+- 🔭 I’m a Master's graduate in Web Engineering with a strong focus on Cloud, DevOps, and Full-Stack Web Development.  
 - 🌱 Currently diving deep into AWS, Docker, Kubernetes, Terraform, and Ansible to build scalable and automated infrastructure.  
 - 🎓 **[AWS Certified Developer – Associate](https://www.credly.com/badges/38505561-2479-41aa-bcbc-2c0caa5e4162)**, with hands-on experience in cloud-native application development and deployment.  
 - 🚀 Passionate about CI/CD, cloud security, AWS best practices, and site reliability, aiming to optimize deployments and infrastructure management.  
-- 👯 Looking to collaborate on open-source DevOps projects or contribute to innovative cloud-native solutions.  
-
+- 💻 Skilled in React, Flask, and modern full-stack technologies to develop and deploy robust web applications.  
+- 👯 Looking to collaborate on open-source DevOps and full-stack web development projects or contribute to innovative cloud-native solutions.  
 
 ### Repositories
 Please visit [amihsan.github.io](//amihsan.github.io) to see all of my repositories.
